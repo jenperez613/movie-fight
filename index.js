@@ -106,7 +106,7 @@ const movieTemplate = (movieDetail) => {
       return prev + value;
     }
   }, 0);
-  console.log(awards);
+  
 
   return `
     <article class="media">
